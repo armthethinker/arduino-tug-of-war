@@ -3,6 +3,7 @@
 
 Written for an Arduino for *Gadgets*, a class at Carnegie Mellon University, taught by Scott Hudson.
 
+## Video Demonstration and Explanation
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=y7OR3ej860A
 " target="_blank"><img src="http://img.youtube.com/vi/y7OR3ej860A/0.jpg"
-alt="" width="240" height="180"/></a>
+alt="" width="1200" height="900"/></a>
